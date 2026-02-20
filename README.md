@@ -58,6 +58,7 @@ cognifyz-frontend-internship/
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/dhruv-bamal/cognifyz-frontend-internship>
+   git clone https://github.com/dhruv-bamal/cognifyz-frontend-internship
+   ```
 2. Navigate to any task folder.
 3. Open index.html in your browser.
